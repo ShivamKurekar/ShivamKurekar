@@ -12,7 +12,7 @@
 
 | 🔭 Working on | 🌱 Exploring |
 |---|---|
-| Design & Verification at SoC level | Advanced UVM methodologies & Formal Verification |
+| Design & Verification @ IP & SoC level | Advanced UVM methodologies & Formal Verification |
 
 ---
 
