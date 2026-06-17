@@ -1,20 +1,8 @@
 <div align="center">
-  <img src="Playing_T-Rex_Runner.gif" width="96" height="96" style="border-radius:6px;" alt="T-Rex Runner" />
-</div>
 
-<br/>
+# Shivam Kurekar
 
-<div align="center">
-
-# Shivam
-
-**VLSI Design & Verification Engineer**
-
-![Verilog](https://img.shields.io/badge/Verilog-1D9E75?style=flat-square&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1D9E75?style=flat-square&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-1D9E75?style=flat-square&logoColor=white)
-![UVM](https://img.shields.io/badge/UVM-555?style=flat-square&logoColor=white)
-![Formal Verification](https://img.shields.io/badge/Formal%20Verification-555?style=flat-square&logoColor=white)
+### RTL Design • FPGA Development • Verification
 
 </div>
 
@@ -36,5 +24,31 @@
 - ◉ &nbsp;Ask me about **Verilog**, **SystemVerilog**, and **FPGA-based system design**
 
 ---
+### My Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Verilog-1D9E75?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SystemVerilog-1D9E75?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FPGA-1D9E75?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/UVM-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Formal%20Verification-4B5563?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Gowin%20EDA-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Efinity-0F766E?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShivamKurekar&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamKurekar&layout=compact&theme=github_dark&hide_border=true&&hide=jupyter%20notebook" />
+</p>
 
 > *Usually one simulation away from either a breakthrough — or a brand new bug.*
