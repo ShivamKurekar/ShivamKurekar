@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/UVM-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Formal%20Verification-4B5563?style=for-the-badge" />
 
+  <img src="https://img.shields.io/badge/Quartus-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gowin%20EDA-0F766E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Efinity-0F766E?style=for-the-badge" />
 
