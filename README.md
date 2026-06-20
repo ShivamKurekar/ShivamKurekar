@@ -18,10 +18,13 @@
 
 ### What I do
 
-- ◉ &nbsp;Designing digital logic and verifying every corner case
-- ◉ &nbsp;Turning waveforms into insights
-- ◉ &nbsp;Finding bugs before they become silicon
-- ◉ &nbsp;Ask me about **Verilog**, **SystemVerilog**, and **FPGA-based system design**
+◉ &nbsp;Designing digital logic and verifying every corner case
+
+◉ &nbsp;Turning waveforms into insights
+
+◉ &nbsp;Finding bugs before they become silicon
+
+◉ &nbsp;Ask me about **Verilog**, **SystemVerilog**, and **FPGA-based system design**
 
 ---
 ### My Tech Stack
